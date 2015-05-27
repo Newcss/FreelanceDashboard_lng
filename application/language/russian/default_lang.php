@@ -183,7 +183,7 @@ $lang['lang_edit_invoice'] = "Редактировать счет";
 $lang['lang_edit_invoice_details'] = "Редактировать детали счета";
 $lang['lang_edit_invoice_item'] = "Edit Invoice Item";
 $lang['lang_edit_item'] = "Edit Item";
-$lang['lang_edit_milestone'] = "Edit Milestone";
+$lang['lang_edit_milestone'] = "Изменить этап";
 $lang['lang_edit_my_timer'] = "Редактировать мой таймер";
 $lang['lang_edit_project_details'] = "Редактировать детали проекта";
 $lang['lang_edit_settings'] = "Редактировать настройки";
@@ -618,7 +618,7 @@ $lang['lang_zip_code'] = "Почтовый индекс";
 |----------------------------------------------------------------------------------------------------
 |
 */
-$lang['lang_info_add_tasks'] = "[Tasks and Milestones] - You can only create/add tasks to existing Project Milestones. Make sure you have some created some Project Milestones before trying to create new tasks.";
+$lang['lang_info_add_tasks'] = "[Задачи и этапы] - Вы можете создать/добавить задачи к существующим этапам проекта. Убедитесь, что у Вас есть созданные этапы проекта, прежде чем пытаться создавать новые задачи.";
 $lang['lang_info_administrators_global_permissions'] = "[Administrators] have Global permissions which do not need to be changed/modified here";
 $lang['lang_info_check_mailer'] = "You can test if the [Email Reader] is working by sending an email to the email address you have specified.";
 $lang['lang_info_create_quotation_form'] = "Drag and Drop the elements you want to create for this forms";
@@ -714,7 +714,7 @@ $lang['form_fields_do_not_match'] = "Do not match";
 
 $lang['lang_tl_created_new_project'] = 'создал новый проект';
 $lang['lang_tl_edited_project'] = 'отредактировал детали проекта';
-$lang['lang_tl_added_milestone'] = 'дабовлен новый этап';
+$lang['lang_tl_added_milestone'] = 'добавлен новый этап';
 $lang['lang_tl_deleted_milestone'] = 'удален этап';
 $lang['lang_tl_add_new_task'] = 'добавлена новая задача';
 $lang['lang_tl_completed_task'] = 'завершена задача';
@@ -782,10 +782,10 @@ $lang['lang_this_action_takes_a_some_time'] = "This action takes a few seconds t
 | These are updates t the language files (since it was first created)
 |
 */
-$lang['lang_settings_cash'] = "Settings - Cash";
-$lang['lang_settings_bank'] = "Settings - Bank Tranfer";
+$lang['lang_settings_cash'] = "Настройки - Наличные";
+$lang['lang_settings_bank'] = "Настройки - Банковский перевод";
 $lang['lang_cash'] = "Наличные";
-$lang['lang_bank_transfer'] = "Bank Transfer";
+$lang['lang_bank_transfer'] = "Банковский перевод";
 $lang['lang_payment_instructions'] = "Payment Instructions/Details";
 
 
